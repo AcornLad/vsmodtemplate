@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "knerdydrifters",
+  "name": "knerdydrifters",
+  "authors": ["Zer0Cool"],
+  "description": "Content mod made for the Knerd Story server. Lowers maximum light level to '1' for Drifter spawns",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.18.6"
+  }
+}
